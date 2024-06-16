@@ -1,0 +1,13 @@
+{
+  "id": "samples_fr_translation",
+  "name": "French Translation",
+  "author": "Simon Capillon",
+  "version": "1.0.0",
+  "description": "Version Française du jeu Starsector",
+  "gameVersion": "0.97a-RC11",
+  "replace": [
+    "data/strings/strings.json",
+    "data/strings/tips.json",
+    "data/strings/tooltips.json"
+  ]
+}
