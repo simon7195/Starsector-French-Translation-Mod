@@ -6,8 +6,7 @@
   "description": "Version Française du jeu Starsector",
   "gameVersion": "0.97a-RC11",
   "replace": [
-    "data/strings/strings.json",
     "data/strings/tips.json",
-    "data/strings/tooltips.json"
+    "data/strings/description.csv"
   ]
 }
