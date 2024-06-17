@@ -7,6 +7,9 @@
   "gameVersion": "0.97a-RC11",
   "replace": [
     "data/strings/tips.json",
-    "data/strings/descriptions.csv"
+    "data/strings/descriptions.csv",
+    "data/campaign/abilities.csv",
+    "data/campaign/commodities.csv",
+    "data/campaign/special_items.csv"
   ]
 }
